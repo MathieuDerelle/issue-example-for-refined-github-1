@@ -1,3 +1,3 @@
 # refined-github-issue
 
-test 1
+test 2
